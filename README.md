@@ -2,7 +2,6 @@
 - 👀 I’m interested in becoming DevOps Engineer
 - 🌱 I’m currently learning comlete DevOps and it's tools
 - 💞️ I’m looking to collaborate on ...
-- 📫 My current repo is MeetSon1/DevOps
 
 <!---
 MeetSon1/MeetSon1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
